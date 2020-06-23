@@ -3,7 +3,7 @@
 
 Uygulama özellikleri:
 
-- Film izleme listesi oluşturulabilir sonradan "izlendi" şeklinde işaretleyebilir veya listeden 
+ - Film izleme listesi oluşturulabilir sonradan "izlendi" şeklinde işaretleyebilir veya listeden 
 kaldırabilirsiniz.
 
  -Bazı festival filmlerine ve vizyon tarihlerine erişebilirsiniz.
