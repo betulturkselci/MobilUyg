@@ -6,8 +6,8 @@ Uygulama özellikleri:
  - Film izleme listesi oluşturulabilir sonradan "izlendi" şeklinde işaretleyebilir veya listeden 
 kaldırabilirsiniz.
 
- -Bazı festival filmlerine ve vizyon tarihlerine erişebilirsiniz.
+ - Bazı festival filmlerine ve vizyon tarihlerine erişebilirsiniz.
  
- -Popüler filmler seçeneğini tıklayıp filmlerin konusu ve yönetmen bilgilerini görüntüleyebilirsiniz.
+ - Popüler filmler seçeneğini tıklayıp filmlerin konusu ve yönetmen bilgilerini görüntüleyebilirsiniz.
 
 
